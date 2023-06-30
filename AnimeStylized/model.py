@@ -8,7 +8,7 @@ from net.discriminator import D_net
 from tools.data_loader import ImageGenerator
 from tools.vgg19 import Vgg19
 
-class AnimeGANv2(object) :
+class Model(object) :
     def __init__(self, sess, args):
         self.model_name = 'AnimeGANv2'
         self.sess = sess
