@@ -1,5 +1,11 @@
+**关于项目报告注意，由于报告编辑的markdwon版本与github上的markown版本不同，故显示会出现问题，有以下解决办法：**
+**1. 下载项目报告PDF格式，但该格式无法观看代码以及视频处理效果**
+**2. 下载项目报告HTLML格式和整个项目，使用浏览器打开，该格式观看体沿最佳**
+**3. 下载项目报告md格式和整个项目，使用VScode的Markdown Preview Enhanced预览插件观看**
+
 # AnimeStylized
 一个基于animeGAN模型的图片、人脸、视频动漫风格化的计算机视觉项目
+
 #### Requirements
 - python >= 3.9.0
 - torch >= 1.7.1
